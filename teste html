@@ -1,0 +1,33 @@
+<html> 
+    <title> Página principal</title>
+<head></head>
+<body style="background-image: url(https://static.vecteezy.com/ti/fotos-gratis/p2/7466554-suave-gradientes-efeitos-de-fundo-azul-bebe-gratis-foto.jpg);">
+    <h1> <strong> Exemplo de texto de um blog </strong></h1>
+    <hr>
+    <h2 id="índice"> Índice </h2>
+    <ul> 
+        <li> <a href="#surgimento">Surgimento da internet </a> </li>
+        <li> <a href="#comofuncionaohtml">Como funciona o HTML</a></li>
+        <li> <a href="#oquesaoastags"> O que são as tags </a></li>
+    
+    </ul>
+    <hr>
+    <h2 id="surgimento"> Surgimento da Internet</h2> 
+    <p>Há 40 anos, enquanto os principais meios de comunicação eram o telégrafo e o telefone, os computadores eram grandes máquinas que realizavam cálculos e armazenavam informações. De forma geral, seu uso tinha fins exclusivamente científicos e governamentais.
+
+        Então, como foi que chegamos à chamada Era da Informação, na qual a tecnologia invade todos os aspectos de nossas vidas? Se quisermos encontrar uma resposta para essa pergunta, precisamos retroceder na história da Internet.
+        
+        Em 1957, os Estados Unidos e a União Soviética protagonizavam a Guerra Fria, um embate em termos ideológicos, econômicos, políticos, militares e, é claro, tecnológicos.
+        
+        Devido ao conflito, os Estados Unidos estavam interessados em encontrar uma maneira de proteger suas informações e comunicações no caso de um ataque nuclear soviético. As inovações que tentaram resolver esse problema levaram ao que conhecemos hoje como Internet.
+        </p> <p> <small> <a href="#índice"> <button>Voltar</button></a></small></p>
+        <hr>    <p>A função do HTML é permitir que um navegador leia e traduza marcações de textos e outras mídias para uma página na web, permitindo que o usuário possa visualizar e interagir com essa página. Isso inclui vídeos, formulários, áudio e muito mais.</p>
+        <p> <small> <a href="#índice"> <button>Voltar</button></a></small></p>
+   <hr>
+    <h2 id="oquesaoastags"> O que são as tags #</h2>
+    <p>Tags HTML são instruções que informam ao navegador como formatar o texto. Você pode usar tags para definir itálico, quebras de linha, objetos, bullet points e muito mais.
+
+        Essas tags estão presentes no HTML (Hypertext Markup Language) de todas as páginas da internet.
+        </p> <p> <small> <a href="#índice"> <button>Voltar</button></a></small></p>
+        <hr>
+</body
